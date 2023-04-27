@@ -8,3 +8,5 @@
 
 
 ## Phân loại bằng Deep Learning
+- Model transfer learning too large so I put it in Google Drive https://drive.google.com/file/d/1MLeUKrWHRUchsqIM85KMw2bcIUUg5w6T/view?usp=share_link
+- 
