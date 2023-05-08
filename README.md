@@ -81,4 +81,3 @@ Thời gian đánh giá	4 giây	41.5 giây	1 phút 25 giây
 Tỉ lệ dự đoán chính xác	59.47%	44%	87.4%
 
 Với mô hình Deep Learning sử dụng Transfer Learning đạt được kết quả cao là do nó tận dụng được kiến thức được tìm ra bởi mô hình pre-trained (được huấn luyện trên một tập dữ liệu rất lớn, rất nhiều layer)
-![image](https://user-images.githubusercontent.com/72611701/235126827-c42803de-3bb6-4f52-81b8-67429c48bf5d.png)
