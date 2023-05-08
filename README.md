@@ -14,7 +14,6 @@ Input gồm 1500 ảnh, thời gian để load ảnh vào dataset là 2m33s.
 Trên tập huấn luyện gồm 1500 ảnh và 30 nhãn, thời gian huấn luyện là 5s.
 ### Đánh giá mô hình
 Trên tập kiểm tra gồm 1500 ảnh và 30 nhãn, thời gian để đánh giá là 4s, độ chính xác accuracy score là 59.47%.
-![image](https://user-images.githubusercontent.com/72611701/235125963-fc7ca86e-de70-4921-9a1b-2667ae9d77ab.png)
 
 ## PHÂN LOẠI BẰNG DEEP LEARNING
 ### Giới thiệu
